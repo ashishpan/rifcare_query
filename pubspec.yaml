@@ -1,8 +1,8 @@
 name: rifcare_query
 description: "Rifcare Query is the Media Query Class which you can use anywhere in your project"
-version: 0.0.6
+version: 0.0.8
 homepage: "https://rifcare.in"
-repository: "https://github.com/ashishpan/rifcare_loading/"
+repository: "https://github.com/ashishpan/rifcare_query/"
 
 environment:
   sdk: ">=2.17.0 <4.0.0"  # Updated SDK version constraint

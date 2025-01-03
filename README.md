@@ -1,3 +1,4 @@
+```markdown
 # README
 
 ## rifcare_query Library
@@ -64,7 +65,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ### Contact
 For any queries or support, reach out to:
 - **Email:** support@rifcare.in
-- **Company:** [RIFCARE TECH PVT LIMITED](#)
+- **Company:** [RIFCARE TECH PVT LIMITED]
 
 ---
 Thank you for using `rifcare_query`. We look forward to your feedback and suggestions!
