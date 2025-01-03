@@ -3,7 +3,7 @@
 
 #### `CHANGELOG.md`
 Track version changes:
-## 0.0.8
+## 1.0.0
 ### Added
 - Initial implementation of `QueryUtils` class.
 - Added static method `width` to retrieve screen width using `MediaQuery`.
